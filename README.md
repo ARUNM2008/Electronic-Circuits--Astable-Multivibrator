@@ -5,6 +5,7 @@ To implement and simulate a Astable Multivibrator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="1340" height="1508" alt="WhatsApp Image 2026-09-20 at 10 53 19 PM" src="https://github.com/user-attachments/assets/6fb2a532-33e4-4d3e-ac8c-0e5303661075" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -42,5 +43,6 @@ PC with LT Spice software
 ## THEORITICAL CALCULATION:
 
 ## OUTPUTS:
+<img width="1351" height="665" alt="Screenshot 2026-09-18 102649" src="https://github.com/user-attachments/assets/f6fb8256-38a0-4466-827c-78c852015b68" />
 
 ## RESULT:
